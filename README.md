@@ -9,6 +9,10 @@ This repo allows you to learn
 - How do I create a python package which other people can install? (note: we skip the step of uploading/ publishing your package)
   - It's still useful to skip that step, because for local development , you can still `pip install -e <your package>`
 
+This repo shows how to create a python pip package with modern python packaging (it's got a lot easier!). This example has a *very simple* `add_one` function, inside a python package you can pip install.
+
+It may serve as a good example for more complex python packages, for example a `pip` package which depends on other pip packages etc.
+
 ## How to install/use
 
 1. (Read the code) If you want to learn how to create yoru own, this might be a good example template.
